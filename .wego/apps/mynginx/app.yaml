@@ -1,0 +1,7 @@
+apiVersion: wego.weave.works/v1alpha1
+kind: Application
+metadata:
+  name: mynginx
+spec:
+  path: ./
+  url: ssh://git@github.com/palemtnrider/nginx-test.git
