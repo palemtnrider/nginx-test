@@ -1,3 +1,4 @@
+---
 apiVersion: wego.weave.works/v1alpha1
 kind: Application
 metadata:
